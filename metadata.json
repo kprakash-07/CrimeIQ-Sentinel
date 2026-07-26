@@ -1,0 +1,6 @@
+{
+  "name": "CrimeIQ Sentinel",
+  "description": "AI-Driven Crime Analytics & Visualization Platform for Bengaluru City Police",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
